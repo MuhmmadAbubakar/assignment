@@ -1,6 +1,10 @@
-package test;
+package com.clinic;
 
-import src.*;
+import com.clinic.models.Clinic;
+import com.clinic.entities.Patient;
+import com.clinic.entities.Physiotherapist;
+import com.clinic.models.Treatment;
+import com.clinic.models.Appointment;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.Arrays;

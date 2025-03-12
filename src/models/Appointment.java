@@ -1,4 +1,7 @@
-package src;
+package com.clinic.models;
+
+import com.clinic.entities.Patient;
+import com.clinic.entities.Physiotherapist;
 
 public class Appointment {
     private String appointmentId;

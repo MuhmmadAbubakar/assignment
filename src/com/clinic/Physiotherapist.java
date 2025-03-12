@@ -1,5 +1,6 @@
-package src;
+package com.clinic.entities;
 
+import com.clinic.models.Treatment;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package src;
+package com.clinic.models;
 
 public class Treatment {
     private String name;
@@ -13,4 +13,3 @@ public class Treatment {
         return name;
     }
 }
-

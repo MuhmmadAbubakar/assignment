@@ -1,4 +1,10 @@
-package src;
+package com.clinic;
+
+import com.clinic.models.Clinic;
+import com.clinic.entities.Patient;
+import com.clinic.entities.Physiotherapist;
+import com.clinic.models.Treatment;
+import com.clinic.models.Appointment;
 
 public class Main {
     public static void main(String[] args) {
