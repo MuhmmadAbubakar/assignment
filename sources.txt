@@ -1,0 +1,7 @@
+src/com/clinic/Main.java
+src/com/clinic/entities/Person.java
+src/com/clinic/entities/Patient.java
+src/com/clinic/entities/Physiotherapist.java
+src/com/clinic/models/Treatment.java
+src/com/clinic/models/Appointment.java
+src/com/clinic/models/Clinic.java
